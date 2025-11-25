@@ -1,0 +1,16 @@
+{
+	"Imagine_SNPs" : [
+		{
+			"ip-address": "0.0.0.0",
+			"hostname": "SNP-1",
+			"username": "admin",
+			"password": "password"
+		},
+		{
+			"ip-address": "0.0.0.0",
+			"hostname": "SNP-2",
+			"username": "admin",
+			"password": "password"
+		}
+	]
+}
